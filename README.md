@@ -28,10 +28,3 @@ This project demonstrates data cleaning, data modeling (Pivot Tables), and dynam
 * **Analysis:** Pivot Tables and Pivot Charts for multi-dimensional data aggregation.
 * **Interactivity:** Integrated dynamic **Slicers** for filtering data instantly by *Product Name* and *Order Date (Months/Years)*.
 * **Design & Layout:** Styled with a clean, modern color palette, custom KPI cards, and custom data labels for optimal readability.
-
----
-
-### 📂 How to View the Project
-1. Clone this repository or download the `.xlsx` file directly.
-2. Open the file in Microsoft Excel (ensure macros/content are enabled if prompted).
-3. Use the **Product Name** and **Order Date** slicers on the right side of the dashboard to filter the metrics dynamically.
