@@ -7,12 +7,6 @@ This project demonstrates data cleaning, data modeling (Pivot Tables), and dynam
 
 ---
 
-###  Dashboard Preview
-![Electronic Gadgets Sales Dashboard](1. electronic gadgets report(ruchi-44).jpeg)
-*(Note: Ensure your uploaded image filename matches the one inside the parentheses above to make it display automatically!)*
-
----
-
 ###  Key Performance Indicators (KPIs) Captured
 * **Total Sales Price:** ₹3,47,59,688
 * **Total Units Sold:** 3,762 units
